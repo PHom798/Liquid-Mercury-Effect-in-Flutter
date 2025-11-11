@@ -41,32 +41,6 @@ This project serves as an **exceptional showcase** for developers exploring adva
 
 ---
 
-## 📸 Screenshots
-
-<div align="left">
-  <table>
-    <tr>
-      <td><img src="screenshots/image1.jpg" alt="Mercury Effect Example 1" width="250"/></td>
-      <td><img src="screenshots/image2.jpg" alt="Mercury Effect Example 2" width="250"/></td>
-      <td><img src="screenshots/image3.jpg" alt="Mercury Effect Example 3" width="250"/></td>
-      <td><img src="screenshots/image4.jpg" alt="Mercury Effect Example 4" width="250"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎥 Demo Video
-
-Watch the **Liquid Mercury Effect** in action:
-<div align="center">
-<video src="https://github.com/user-attachments/assets/your-demo-video-id" controls width="100%" ></video> 
-</div>
-
-
-
----
-
 ## 🏗️ Tech Stack
 
 | Technology                          | Description                                          |
